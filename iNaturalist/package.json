@@ -1,0 +1,18 @@
+{
+  "name": "inaturalist-scraper",
+  "version": "1.0.0",
+  "description": "Scrape iNaturalist observations and extract image URLs",
+  "main": "get-observations.js",
+  "scripts": {
+    "start": "node get-observations.js"
+  },
+  "dependencies": {},
+  "keywords": [
+    "inaturalist",
+    "scraper",
+    "observations"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
